@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/mssql-jdbc-12.4.2.jre8.jar"
+    ]
+    {
+        "java.compile.nullAnalysis.mode": "disabled"
+    }
+}
